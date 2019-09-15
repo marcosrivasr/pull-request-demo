@@ -1,0 +1,22 @@
+/*
+  app.js
+  
+  Esta aplcación imprime los nombre de los colaboradores que se meten al repositorio en Github y abren un pull request.
+*/
+const colaboradores = [
+    {nombre: "Marcos Rivas", twitter: "@vidamrr"},
+    {nombre: "Marcos Rivas", twitter: "@vidamrr"},
+    {nombre: "Marcos Rivas", twitter: "@vidamrr"},
+    {nombre: "Marcos Rivas", twitter: "@vidamrr"},
+    {nombre: "Marcos Rivas", twitter: "@vidamrr"},
+    {nombre: "Marcos Rivas", twitter: "@vidamrr"},
+    {nombre: "Marcos Rivas", twitter: "@vidamrr"},
+    {nombre: "Marcos Rivas", twitter: "@vidamrr"},
+    {nombre: "Marcos Rivas", twitter: "@vidamrr"},
+    {nombre: "Marcos Rivas", twitter: "@vidamrr"}
+];
+
+console.log('Esta es la lista de colaboradores en este proyecto');
+colaboradores.forEach(colaborador =>{
+    console.log(`${colaborador.nombre} - ${colaborador.twitter}`);
+});
