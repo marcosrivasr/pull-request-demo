@@ -10,10 +10,12 @@ const colaboradores = [
     {nombre: "Cliber Castillo", twitter: "@CastilloCliber"},
     {nombre: "Elisabetta", twitter: "@bettina86"},
     {nombre: "Martín Leiva", twitter: "@_marleiva"},
+    {nombre: "Martin Fuentes", twitter: "@Someonewhosntme"},
+    {nombre: "Daniel Maldonado", twitter: "@Maldonadoml09"},
+    {nombre: "Marcos Rivas", twitter: "@vidamrr"},
     {nombre: "Ismael Garcia", twitter: "@leamsigc"},
     {nombre: "Marcos Rivas", twitter: "@vidamrr"},
-    {nombre: "Marcos Rivas", twitter: "@vidamrr"},
-    {nombre: "Marcos Rivas", twitter: "@vidamrr"}
+    {nombre: "Victor Israel", twitter: "@victor-israel"}
 ];
 
 console.log('Esta es la lista de colaboradores en este proyecto');
