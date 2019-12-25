@@ -13,6 +13,7 @@ const colaboradores = [
     {nombre: "Martin Fuentes", twitter: "@Someonewhosntme"},
     {nombre: "Daniel Maldonado", twitter: "@Maldonadoml09"},
     {nombre: "Marcos Rivas", twitter: "@vidamrr"},
+    {nombre: "Ismael Garcia", twitter: "@leamsigc"},
     {nombre: "Marcos Rivas", twitter: "@vidamrr"},
     {nombre: "Victor Israel", twitter: "@victor-israel"}
 ];
