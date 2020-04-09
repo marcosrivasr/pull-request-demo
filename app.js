@@ -18,7 +18,6 @@ const colaboradores = [
     {nombre: "Ismael Garcia", twitter: "@leamsigc"},
     {nombre: "Marcos Rivas", twitter: "@vidamrr"},
     {nombre: "Victor Israel", twitter: "@victor-israel"}
-    {nombre: "Red-Mat", twitter: "null"}
 ];
 
 console.log('Esta es la lista de colaboradores en este proyecto');
