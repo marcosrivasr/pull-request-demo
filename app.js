@@ -4,7 +4,7 @@
   Esta aplcación imprime los nombre de los colaboradores que se meten al repositorio en Github y abren un pull request.
 */
 const colaboradores = [
-    {nombre: "Marcos Rivas", twitter: "@vidamrr"},
+    {nombre: "Laura AC", twitter: "@lac"},
     {nombre: "Prueba Lab", twitter: "@prueba-lab"},
     {nombre: "Khris Parrales", twitter: "@khrisparrales"},
     {nombre: "Cliber Castillo", twitter: "@CastilloCliber"},
@@ -17,8 +17,11 @@ const colaboradores = [
     {nombre: "Marcos Rivas", twitter: "@vidamrr"},
     {nombre: "Ismael Garcia", twitter: "@leamsigc"},
     {nombre: "Marcos Rivas", twitter: "@vidamrr"},
-    {nombre: "Victor Israel", twitter: "@victor-israel"}
-    {nombre: "new_dat", twitter: "@victor-israel"}
+    {nombre: "new_dat", twitter: "@victor-israel"},
+    {nombre: "Victor Israel", twitter: "@victor-israel"},
+    {nombre: "Fabrik Hernandez", twitter: "@FabrikHernandez"},
+    {nombre: "Jennifer Cordón", twitter: "@jenny_cordon"},
+    {nombre: "Javier Francisco", twitter: "@naranjas"}
 ];
 
 console.log('Esta es la lista de colaboradores en este proyecto');
