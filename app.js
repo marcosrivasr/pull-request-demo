@@ -21,14 +21,15 @@ const colaboradores = [
     {nombre: "Victor Israel", twitter: "@victor-israel"},
     {nombre: "Fabrik Hernandez", twitter: "@FabrikHernandez"},
     {nombre: "Jennifer Cordón", twitter: "@jenny_cordon"},
-
     {nombre: "Javier Francisco", twitter: "@naranjas"},
+    {nombre: "luis miguel", twitter: "@miguelacho"},
     {nombre: "Antonio Contreras", twitter: "@Mitwitter"},
     {nombre: "Willy Mateo", twitter: "@willymateo"},
     {nombre: "Eap Code", twitter: "@CodeEap"},
     {nombre: "Rodrigo Gutierrez", twitter: "@RODRIGOa507"},
     {nombre: "Lester Morales", twitter: "@larmorales14"},
     {nombre: "Daniel Guerrero", twitter: "@dgj86"}
+
 ];
 
 console.log('Esta es la lista de colaboradores en este proyecto');
