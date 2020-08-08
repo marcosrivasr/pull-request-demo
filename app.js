@@ -21,7 +21,9 @@ const colaboradores = [
     {nombre: "Victor Israel", twitter: "@victor-israel"},
     {nombre: "Fabrik Hernandez", twitter: "@FabrikHernandez"},
     {nombre: "Jennifer Cordón", twitter: "@jenny_cordon"},
+
     {nombre: "Javier Francisco", twitter: "@naranjas"},
+    {nombre: "Antonio Contreras", twitter: "@Mitwitter"},
     {nombre: "Willy Mateo", twitter: "@willymateo"},
     {nombre: "Eap Code", twitter: "@CodeEap"},
     {nombre: "Rodrigo Gutierrez", twitter: "@RODRIGOa507"},
