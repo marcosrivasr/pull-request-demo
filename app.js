@@ -22,6 +22,7 @@ const colaboradores = [
     {nombre: "Fabrik Hernandez", twitter: "@FabrikHernandez"},
     {nombre: "Jennifer Cordón", twitter: "@jenny_cordon"},
     {nombre: "Javier Francisco", twitter: "@naranjas"},
+    {nombre: "Rodrigo Gutierrez", twitter: "@RODRIGOa507"}
     {nombre: "Lester Morales", twitter: "@larmorales14"},
 ];
 
