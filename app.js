@@ -30,6 +30,7 @@ const colaboradores = [
     {nombre: "Rodrigo Gutierrez", twitter: "@RODRIGOa507"},
     {nombre: "Lester Morales", twitter: "@larmorales14"},
     {nombre: "Daniel Guerrero", twitter: "@dgj86"}
+    {nombre: "Carlos Vargas", twitter: "@"}
 
 ];
 
