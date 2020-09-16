@@ -8,7 +8,7 @@ const colaboradores = [
     {nombre: "Prueba Lab", twitter: "@prueba-lab"},
     {nombre: "Khris Parrales", twitter: "@khrisparrales"},
     {nombre: "Cliber Castillo", twitter: "@CastilloCliber"},
-    {nombre: "Ronnie Moncayo", twitter: "@@RonnieMoncayo"},
+    {nombre: "jrs", twitter: "tus"},
     {nombre: "Elisabetta", twitter: "@bettina86"},
     {nombre: "Martín Leiva", twitter: "@_marleiva"},
     {nombre: "Daniel Jimenez", twitter: "@Dejs1998"},
