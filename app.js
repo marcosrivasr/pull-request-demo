@@ -32,6 +32,7 @@ const colaboradores = [
     {nombre: "Daniel Guerrero", twitter: "@dgj86"},
     {nombre: "Carlos Vargas", twitter: "@"},
     {nombre: "Andres Lopez", twitter: "@16Andres16"},
+    {nombre: "Amilcar Serrano", twitter: "@amilcarse"},
     {nombre: "John Zúñga", twitter: "@JomFelixZ"},
     {nombre: "Rafael Aquino", twitter: "@Rafa_elaquino"},
     {nombre: "jaif", twitter: "@"},
