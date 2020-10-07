@@ -39,6 +39,7 @@ const colaboradores = [
     {nombre: "Gonzalo Romero", twitter: "@neonesoft"},
     {nombre: "Josue Vargas", twitter: "@NoTengo"},
     {nombre: "Martin Echavez", twitter: "@martinEchavez"},
+    {nombre: "Cesar L", instagram: "@Charlotporelmundo"},
 ];
 
 console.log('Esta es la lista de colaboradores en este proyecto');
