@@ -8,7 +8,7 @@ const colaboradores = [
     {nombre: "Prueba Lab", twitter: "@prueba-lab"},
     {nombre: "Khris Parrales", twitter: "@khrisparrales"},
     {nombre: "Cliber Castillo", twitter: "@CastilloCliber"},
-    {nombre: "Ronnie Moncayo", twitter: "@@RonnieMoncayo"},
+    {nombre: "jrs", twitter: "tus"},
     {nombre: "Elisabetta", twitter: "@bettina86"},
     {nombre: "Martín Leiva", twitter: "@_marleiva"},
     {nombre: "Daniel Jimenez", twitter: "@Dejs1998"},
@@ -32,8 +32,11 @@ const colaboradores = [
     {nombre: "Daniel Guerrero", twitter: "@dgj86"},
     {nombre: "Carlos Vargas", twitter: "@"},
     {nombre: "Andres Lopez", twitter: "@16Andres16"},
-    {nombre: "Rafael Aquino", twitter: "@Rafa_elaquino"}
-
+    {nombre: "Rafael Aquino", twitter: "@Rafa_elaquino"},
+    {nombre: "jaif", twitter: "@"},
+    {nombre: "Gonzalo Romero", twitter: "@neonesoft"},
+    {nombre: "Josue Vargas", twitter: "@NoTengo"},
+    {nombre: "Martin Echavez", twitter: "@martinEchavez"},
 ];
 
 console.log('Esta es la lista de colaboradores en este proyecto');
