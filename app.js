@@ -42,6 +42,7 @@ const colaboradores = [
     {nombre: "Cesar L", instagram: "@Charlotporelmundo"},
     {nombre: "Emilio Rafael", instagram: "@emilio4585"},
     {nombre: "Fausto Montes", twitter: "@30Fausto"},
+    {nombre: "Melisa Gimenez", twitter: "@NoUsoTwitter"},
     {nombre: "Jorge Cruz", twitter:"@IDon'tHave"}
 ];
 
