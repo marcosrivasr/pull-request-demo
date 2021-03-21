@@ -4,6 +4,7 @@
   Esta aplcación imprime los nombre de los colaboradores que se meten al repositorio en Github y abren un pull request.
 */
 const colaboradores = [
+     {nombre: "Leon27", twitter"@Leonelmv27"},
     {nombre: "Laura AC", twitter: "@lac"},
     {nombre: "Prueba Lab", twitter: "@prueba-lab"},
     {nombre: "Khris Parrales", twitter: "@khrisparrales"},
