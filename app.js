@@ -5,6 +5,8 @@
 */
 const colaboradores = [
     {nombre: "Laura AC", twitter: "@lac"},
+    {nombre: "Cesar", twitter: "@cesar2"},
+    {nombre: "Dante", twitter: "@dant22"},
     {nombre: "Prueba Lab", twitter: "@prueba-lab"},
     {nombre: "Khris Parrales", twitter: "@khrisparrales"},
     {nombre: "Cliber Castillo", twitter: "@CastilloCliber"},
@@ -26,6 +28,7 @@ const colaboradores = [
     {nombre: "luis miguel", twitter: "@miguelacho"},
     {nombre: "Antonio Contreras", twitter: "@Mitwitter"},
     {nombre: "Willy Mateo", twitter: "@willymateo"},
+    {nombre: "Marck Delf", twitter: "@delfma"},
     {nombre: "Eap Code", twitter: "@CodeEap"},
     {nombre: "Rodrigo Gutierrez", twitter: "@RODRIGOa507"},
     {nombre: "Lester Morales", twitter: "@larmorales14"},
@@ -33,6 +36,7 @@ const colaboradores = [
     {nombre: "Carlos Vargas", twitter: "@"},
     {nombre: "Andres Lopez", twitter: "@16Andres16"},
     {nombre: "Amilcar Serrano", twitter: "@amilcarse"},
+    {nombre: "Carlos Montes", twitter: "@camont"},
     {nombre: "John Zúñga", twitter: "@JomFelixZ"},
     {nombre: "Rafael Aquino", twitter: "@Rafa_elaquino"},
     {nombre: "jaif", twitter: "@"},
