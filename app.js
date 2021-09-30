@@ -9,6 +9,7 @@ const colaboradores = [
     {nombre: "Khris Parrales", twitter: "@khrisparrales"},
     {nombre: "Cliber Castillo", twitter: "@CastilloCliber"},
     {nombre: "jrs", twitter: "tus"},
+    {nombre: "Universidad", twitter: "@universidad"},
     {nombre: "Elisabetta", twitter: "@bettina86"},
     {nombre: "Martín Leiva", twitter: "@_marleiva"},
     {nombre: "Daniel Jimenez", twitter: "@Dejs1998"},
