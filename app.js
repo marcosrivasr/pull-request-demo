@@ -39,11 +39,14 @@ const colaboradores = [
     {nombre: "Gonzalo Romero", twitter: "@neonesoft"},
     {nombre: "Josue Vargas", twitter: "@NoTengo"},
     {nombre: "Martin Echavez", twitter: "@martinEchavez"},
-    {nombre: "Cesar L", instagram: "@Charlotporelmundo"},
+    {nombre: "Cesar L", instagram: "@Charlotporelmundo"}, 
     {nombre: "Emilio Rafael", instagram: "@emilio4585"},
     {nombre: "Fausto Montes", twitter: "@30Fausto"},
-    {nombre: "Jorge Cruz", twitter:"@IDon'tHave"}
-];
+    {nombre: "Jorge Cruz", twitter:"@IDon'tHave"},    
+  {nombre: "Francisco MurilloV", twitter:"@fjmurillov40361"}  
+  
+];  
+
 
 console.log('Esta es la lista de colaboradores en este proyecto');
 colaboradores.forEach(colaborador =>{
