@@ -39,6 +39,7 @@ const colaboradores = [
     {nombre: "Gonzalo Romero", twitter: "@neonesoft"},
     {nombre: "Josue Vargas", twitter: "@NoTengo"},
     {nombre: "Martin Echavez", twitter: "@martinEchavez"},
+    {nombre: "Cristian Medina", twitter: "@martinEchavez"},
     {nombre: "Cesar L", instagram: "@Charlotporelmundo"},
     {nombre: "Emilio Rafael", instagram: "@emilio4585"},
     {nombre: "Fausto Montes", twitter: "@30Fausto"},
