@@ -14,7 +14,7 @@ const colaboradores = [
     {nombre: "Daniel Jimenez", twitter: "@Dejs1998"},
     {nombre: "Martin Fuentes", twitter: "@Someonewhosntme"},
     {nombre: "Daniel Maldonado", twitter: "@Maldonadoml09"},
-    {nombre: "Marcos Rivas", twitter: "@vidamrr"},
+    {nombre: "Cruz Merinez", twitter: "@leonpurplepro"},
     {nombre: "Ismael Garcia", twitter: "@leamsigc"},
     {nombre: "Marcos Rivas", twitter: "@vidamrr"},
     {nombre: "new_dat", twitter: "@victor-israel"},
