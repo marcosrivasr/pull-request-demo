@@ -22,7 +22,7 @@ const colaboradores = [
     {nombre: "Fabrik Hernandez", twitter: "@FabrikHernandez"},
     {nombre: "Jennifer Cordón", twitter: "@jenny_cordon"},
     {nombre: "Javier Francisco", twitter: "@naranjas"},
-    {nombre: "Eloy García Ceja", twitter: "@wineloy"},
+    {nombre: "Ricardo Quijas", twitter: "@tomates"},
     {nombre: "luis miguel", twitter: "@miguelacho"},
     {nombre: "Antonio Contreras", twitter: "@Mitwitter"},
     {nombre: "Willy Mateo", twitter: "@willymateo"},
