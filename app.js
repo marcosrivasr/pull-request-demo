@@ -14,7 +14,6 @@ const colaboradores = [
     {nombre: "Daniel Jimenez", twitter: "@Dejs1998"},
     {nombre: "Martin Fuentes", twitter: "@Someonewhosntme"},
     {nombre: "Daniel Maldonado", twitter: "@Maldonadoml09"},
-    {nombre: "Marcos Rivas", twitter: "@vidamrr"},
     {nombre: "Ismael Garcia", twitter: "@leamsigc"},
     {nombre: "Marcos Rivas", twitter: "@vidamrr"},
     {nombre: "new_dat", twitter: "@victor-israel"},
@@ -42,7 +41,8 @@ const colaboradores = [
     {nombre: "Cesar L", instagram: "@Charlotporelmundo"},
     {nombre: "Emilio Rafael", instagram: "@emilio4585"},
     {nombre: "Fausto Montes", twitter: "@30Fausto"},
-    {nombre: "Jorge Cruz", twitter:"@IDon'tHave"}
+    {nombre: "Jorge Cruz", twitter:"@IDon'tHave"},
+    {nombre: "Flavio Rios", twitter: "@flaviovichDev"},
 ];
 
 console.log('Esta es la lista de colaboradores en este proyecto');
